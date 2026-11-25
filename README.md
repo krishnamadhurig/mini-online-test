@@ -2,9 +2,9 @@
 
 A small online test platform. Students sign up, take a timed 10-question multiple-choice test, see a detailed result, and review their past attempts. An admin can add new questions.
 
-- **Live app:** 
+- **Live app:** https://mini-online-test-gold.vercel.app
 
-- **API health check:** 
+- **API health check:** https://mini-online-test-z3we.onrender.com/api/health
 
 - **GitHub:** https://github.com/krishnamadhurig/mini-online-test
 
